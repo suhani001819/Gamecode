@@ -41,4 +41,4 @@ The project demonstrates the use of Python fundamentals such as loops, condition
 - Score Management
 - Input Validation
 
----
+--- 
